@@ -71,6 +71,12 @@
   "AreaTalkSelects": {
     "common": "assets\\imgs\\Windows\\Talk\\common\\AreaTalkSelects.jpg"
   },
+  "AreaDomainResidue": {
+    "common": "assets\\imgs\\Windows\\Domain\\common\\AreaDomainResidue.jpg"
+  },
+  "AreaDomainResidue1": {
+    "common": "assets\\imgs\\Windows\\Domain\\common\\AreaDomainResidue1.jpg"
+  },
   "ButtonBigmapCloseMarkTableInTP": {
     "common": "assets\\imgs\\Windows\\Bigmap\\common\\ButtonBigmapCloseMarkTableInTP.png"
   },
