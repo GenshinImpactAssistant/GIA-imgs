@@ -95,6 +95,12 @@
   "Button4P": {
     "common": "assets\\imgs\\Windows\\Combat\\common\\Button4P.png"
   },
+  "AreaDomainResidue": {
+    "common": "assets\\imgs\\Windows\\Domain\\common\\AreaDomainResidue.jpg"
+  },
+  "AreaDomainResidue1": {
+    "common": "assets\\imgs\\Windows\\Domain\\common\\AreaDomainResidue1.jpg"
+  },
   "ButtonBigmapCloseMarkTableInTP": {
     "common": "assets\\imgs\\Windows\\Bigmap\\common\\ButtonBigmapCloseMarkTableInTP.png"
   },
